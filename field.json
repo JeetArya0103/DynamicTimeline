@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "time": "10:00 am to 10:30 am",
+            "time_background_color": "#41516C",
+            "time_color": "#fff",
+            "title": "Opening Note",
+            "description": "<li><strong>E Kumar Sharma, </strong>Deputy Editor, Financial Express - Digital.</li>"
+        },
+        {
+            "id": 2,
+            "time": "10:30 am to 11:00 am",
+            "time_background_color": "#FBCA3E",
+            "time_color": "#fff",
+            "title": "Keynote Address<br>Transforming Indian Banking",
+            "description": "<li><strong>Nitin Chugh, </strong>Deputy Managing Director and Head of Digital Banking, SBI.</li>"
+        },
+        {
+            "id": 3,
+            "time": "11:30 am to 12:00 pm",
+            "time_background_color": "#E24A68",
+            "time_color": "#fff",
+            "title": "Panel Discussion<br>Financial Inclusion & Role of Technology",
+            "description": "<li><strong>Balaji Rajagopalan, </strong>Chief Technology Officer, SBI.<br></li><li><strong>Venkattesh R, </strong>President & Head Operations, Technology and Human Resources & CIO, DCB Bank </li><li><strong>Kumar Swetank, </strong>AGM, Private Banking, Digital Transformation & Adoption, ICICI Bank</li>"
+        },
+        {
+            "id": 4,
+            "time": "12:00 pm to 12:30 pm",
+            "time_background_color": "#1B5F8C",
+            "time_color": "#fff",
+            "title": "Heading<br>Sub Heading",
+            "description": "<li><strong>Lorem ipsum </strong>dolor sit, amet consectetur adipisicing elit. Incidunt, doloremque.</li>"
+        },
+        {
+            "id": 5,
+            "time": "12:30 pm to 01:00 pm",
+            "time_background_color": "#4CADAD",
+            "time_color": "#fff",
+            "title": "Heading<br>Sub Heading",
+            "description": "<li><strong>Lorem ipsum </strong>dolor sit, amet consectetur adipisicing elit. Incidunt, doloremque.</li>"
+        },
+        {
+            "id": 6,
+            "time": "01:00 pm to 01:30 pm",
+            "time_background_color": "#675fb0",
+            "time_color": "#fff",
+            "title": "Heading<br>Sub Heading",
+            "description": "<li><strong>Lorem ipsum </strong>dolor sit, amet consectetur adipisicing elit. Incidunt, doloremque.</li>"
+        }
+    ]
+}
